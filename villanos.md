@@ -6,3 +6,4 @@
 5.- Duende verde
 6.- Octopus
 7.- Ultron
+8.- Hulk red
