@@ -4,3 +4,5 @@
 2.- Iron man
 3.- Thor
 4.- Hulk
+5.- Bruja scarlata
+6.- Aquaman
