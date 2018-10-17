@@ -1,5 +1,7 @@
 # test-upload
 repositorio de prueba para subidad y manejo de archivos
 
+README creado desde Github
 
-readme creado desde github
+* Tema 1
+* Tema 2
