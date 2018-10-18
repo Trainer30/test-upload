@@ -12,3 +12,5 @@ contenido columna 1, fila 1 | contenido columna 2, fila 1 | contenido columna 3,
 contenido columna 1, fila 2 | contenido columna 2, fila 2 | contenido columna 3, fila 2
 contenido columna 1, fila 3 | contenido columna 2, fila 3 | contenido columna 3, fila 3
 contenido columna 1, fila 4 | contenido columna 2, fila 4 | contenido columna 3, fila 4
+contenido columna 1, fila 5 | contenido columna 2, fila 5 | contenido columna 3, fila 5
+contenido columna 1, fila 6 | contenido columna 2, fila 6 | contenido columna 3, fila 6
